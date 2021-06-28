@@ -1,0 +1,18 @@
+{
+  "name": "bases-node",
+  "version": "0.0.1",
+  "description": "Es una tabla de multiplicar, com imprecion txt",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "my",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}

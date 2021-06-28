@@ -1,0 +1,9 @@
+
+# contenido de directorio salida
+/salida/*.txt
+
+# Modules node
+node_modules/
+
+
+
